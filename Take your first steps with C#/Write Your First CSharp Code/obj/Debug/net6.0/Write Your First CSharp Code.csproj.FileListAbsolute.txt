@@ -1,0 +1,15 @@
+E:\Github\CSharp-Learing-Path\Take your first steps with C#\Write Your First CSharp Code\bin\Debug\net6.0\Write Your First CSharp Code.exe
+E:\Github\CSharp-Learing-Path\Take your first steps with C#\Write Your First CSharp Code\bin\Debug\net6.0\Write Your First CSharp Code.deps.json
+E:\Github\CSharp-Learing-Path\Take your first steps with C#\Write Your First CSharp Code\bin\Debug\net6.0\Write Your First CSharp Code.runtimeconfig.json
+E:\Github\CSharp-Learing-Path\Take your first steps with C#\Write Your First CSharp Code\bin\Debug\net6.0\Write Your First CSharp Code.dll
+E:\Github\CSharp-Learing-Path\Take your first steps with C#\Write Your First CSharp Code\bin\Debug\net6.0\ref\Write Your First CSharp Code.dll
+E:\Github\CSharp-Learing-Path\Take your first steps with C#\Write Your First CSharp Code\bin\Debug\net6.0\Write Your First CSharp Code.pdb
+E:\Github\CSharp-Learing-Path\Take your first steps with C#\Write Your First CSharp Code\obj\Debug\net6.0\Write Your First CSharp Code.csproj.AssemblyReference.cache
+E:\Github\CSharp-Learing-Path\Take your first steps with C#\Write Your First CSharp Code\obj\Debug\net6.0\Write Your First CSharp Code.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github\CSharp-Learing-Path\Take your first steps with C#\Write Your First CSharp Code\obj\Debug\net6.0\Write Your First CSharp Code.AssemblyInfoInputs.cache
+E:\Github\CSharp-Learing-Path\Take your first steps with C#\Write Your First CSharp Code\obj\Debug\net6.0\Write Your First CSharp Code.AssemblyInfo.cs
+E:\Github\CSharp-Learing-Path\Take your first steps with C#\Write Your First CSharp Code\obj\Debug\net6.0\Write Your First CSharp Code.csproj.CoreCompileInputs.cache
+E:\Github\CSharp-Learing-Path\Take your first steps with C#\Write Your First CSharp Code\obj\Debug\net6.0\Write Your First CSharp Code.dll
+E:\Github\CSharp-Learing-Path\Take your first steps with C#\Write Your First CSharp Code\obj\Debug\net6.0\ref\Write Your First CSharp Code.dll
+E:\Github\CSharp-Learing-Path\Take your first steps with C#\Write Your First CSharp Code\obj\Debug\net6.0\Write Your First CSharp Code.pdb
+E:\Github\CSharp-Learing-Path\Take your first steps with C#\Write Your First CSharp Code\obj\Debug\net6.0\Write Your First CSharp Code.genruntimeconfig.cache
